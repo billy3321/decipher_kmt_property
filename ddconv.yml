@@ -27,7 +27,7 @@ language: zh-TW # 繁體中文＝zh_TW 簡體中文＝zh_CN 日文=ja、英文=e
 date: 20111201 # 請以YYYYMMDD的格式指定。
 
 # 翻頁方向
-pageDirection: rtl # 左起右翻=ltr、右起左翻=rtl
+pageDirection: ltr # 左起右翻=ltr、右起左翻=rtl
 
 # EPUB輸出選項
 options:
