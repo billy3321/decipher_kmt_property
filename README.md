@@ -25,5 +25,7 @@
 
 ## 相關資源
 
-本書PDF可[在此下載](http://bit.ly/1zIrwDH)。
+* [PDF](http://bit.ly/1zIrwDH)。
+* [Google Play](https://play.google.com/store/books/details?id=ZeyaCwAAQBAJ)
+* [Gumroad](https://gumroad.com/l/decipher-kmt-property)
 
